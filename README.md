@@ -11,6 +11,9 @@
 - `TOKEN` Your bot token from @BotFather
 - `STRING` Your pyrogram V2 session string. 
             Get from @stringFatherBot
+### STRING BOT
+  
+  [sᴛʀɪɴɢ ʙᴏᴛ](https://telegram.me/StringFatherBot)
 
 ---
 # Deploy to Heroku
